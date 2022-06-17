@@ -1,3 +1,6 @@
+# This past 2-3 weeks(I Think?) were unbelieveably busy(i.e: Some partying(Who hasn't felt guilty for it but enjoyed it?))
+# The last thing I wanted to do was finish this project(Thanks to a procrastinating habit(Who hasn't had one of these too?))
+
 import argparse
 import math
 
